@@ -1,2 +1,2 @@
 # hello-world
-first repositoy
+Getting start with Devops
